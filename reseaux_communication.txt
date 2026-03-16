@@ -1,0 +1,166 @@
+\documentclass[10pt]{beamer} 
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage{geometry} 
+\usepackage{graphicx}
+
+\usetheme{Madrid} 
+\usecolortheme{default}
+
+\title{Projet PPP \\ \large Réseaux de communication}
+\author{25130 -- 25047 -- 25169--25135}
+\date{28-02-2026}
+
+\begin{document}
+
+\begin{frame}
+    \maketitle
+\end{frame}
+
+\begin{frame}
+    \frametitle{Plan}
+    \tableofcontents
+\end{frame}
+
+\section{Introduction}
+\begin{frame}
+    \frametitle{Introduction}
+    Les réseaux de communication mondiaux permettent aux personnes, aux entreprises et
+    aux gouvernements d'échanger des informations à travers le monde. Grâce à ces réseaux,
+    il est possible d'envoyer des messages, de passer des appels, de regarder des vidéos en
+    ligne et d'accéder à des services numériques en quelques secondes.
+\end{frame}
+
+\section{Définition d'un réseau de communication}
+\begin{frame}
+    \frametitle{Définition d'un réseau de communication}
+    Un réseau de communication est un ensemble d'équipements reliés entre eux pour
+    transmettre des données. Ces équipements peuvent être :
+    \begin{itemize}
+        \item Des ordinateurs
+        \item Des serveurs
+        \item Des routeurs
+        \item Des satellites
+        \item Des câbles sous-marins
+    \end{itemize}
+\end{frame}
+
+\section{Types de réseaux}
+\begin{frame}
+    \frametitle{Types de réseaux}
+    \begin{itemize}
+        \item \textbf{Réseau Local (LAN)} \\
+        Un réseau local (LAN - Local Area Network) est un réseau utilisé dans un espace
+        limité comme une maison, une école ou une entreprise.
+    \end{itemize}
+    \begin{itemize}
+        \item \textbf{Réseau Métropolitain (MAN)} \\
+        Un réseau MAN couvre une ville entière.
+    \end{itemize}
+    \begin{itemize}
+        \item \textbf{Réseau Étendu (WAN)} \\
+        Un réseau WAN (Wide Area Network) couvre de grandes distances, parfois des pays
+        ou des continents. Internet est le plus grand exemple de réseau WAN mondial.
+    \end{itemize}
+\end{frame}
+
+\section{Les composants principaux}
+
+\subsection{Routeur}
+\begin{frame}
+    \frametitle{Les composants principaux}
+    \framesubtitle{Routeur}
+    Le routeur permet de diriger les données vers la bonne destination.
+     \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.5\textwidth]{Routeur.png}
+    \end{figure}
+\end{frame}
+
+\subsection{Serveur}
+\begin{frame}
+    \frametitle{Les composants principaux}
+    \framesubtitle{Serveur}
+    Un serveur est un ordinateur puissant qui fournit des services aux autres ordinateurs.
+      \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.5\textwidth]{Serveur.png}
+    \end{figure}
+\end{frame}
+
+\subsection{Fibre optique}
+\begin{frame}
+    \frametitle{Les composants principaux}
+    \framesubtitle{Fibre optique}
+    La fibre optique est utilisée pour transmettre les données à très grande vitesse à travers
+    le monde.
+      \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.5\textwidth]{Fibre.png}
+    \end{figure}
+\end{frame}
+
+\section{Statistiques Générales}
+\begin{frame}
+    \frametitle{Statistiques Générales}
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.5\textwidth]{image.png}
+    \end{figure}
+     \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.5\textwidth]{image1.png}
+    \end{figure}
+\end{frame}
+
+\section{Internet : le plus grand réseau mondial}
+\begin{frame}
+    \frametitle{Internet : le plus grand réseau mondial}
+    Internet relie des milliards d'appareils dans le monde entier. Il fonctionne grâce à :
+    \begin{itemize}
+        \item Des centres de données
+        \item Des câbles sous-marins
+        \item Des satellites
+        \item Des protocoles comme TCP/IP
+    \end{itemize}
+\end{frame}
+
+\section{Avantages des réseaux mondiaux}
+\begin{frame}
+    \frametitle{Avantages des réseaux mondiaux}
+    \begin{itemize}
+        \item Communication rapide
+        \item Accès à l'information
+        \item Commerce électronique
+        \item Éducation en ligne
+    \end{itemize}
+\end{frame}
+
+\section{Inconvénients}
+\begin{frame}
+    \frametitle{Inconvénients}
+    \begin{itemize}
+        \item Risques de piratage
+        \item Problèmes de sécurité
+        \item Dépendance à la technologie
+    \end{itemize}
+\end{frame}
+
+\section{Conclusion}
+\begin{frame}
+    \frametitle{Conclusion}
+    Les réseaux de communication mondiaux jouent un rôle essentiel dans notre vie quotidienne.
+    Ils facilitent la communication, le commerce et l'éducation. Cependant, il est important de
+    renforcer la sécurité et de protéger les données des utilisateurs.
+\end{frame}
+
+\section{Bibliographie}
+\begin{frame}
+    \frametitle{Bibliographie}
+    \begin{itemize}
+        \item Cours d'Introduction aux Réseaux Informatiques
+        \item Documentation sur Internet et TCP/IP
+    \end{itemize}
+\end{frame}
+
+\end{document}
